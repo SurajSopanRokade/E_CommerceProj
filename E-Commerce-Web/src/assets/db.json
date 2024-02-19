@@ -1,0 +1,34 @@
+{
+  "seller": [
+    {
+      "name": "Suraj Rokade",
+      "password": "abc@123",
+      "email": "suraj1234@gmail.com",
+      "id": "1"
+    },
+    {
+      "name": "Abhishek Rai",
+      "password": "abi@123",
+      "email": "abhi1234@gmail.com",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "username": "Yogi@123",
+      "password": "ybc@1234",
+      "email": "Yogi1234@gmail.com"
+    },
+    {
+      "id": "8b39",
+      "username": "Sunish",
+      "password": "sunish@123",
+      "email": "sunish1234@gmail.com"
+    },
+    {
+      "id": "99ea",
+      "username": "Sunish",
+      "password": "sunish@123",
+      "email": "sunish1234@gmail.com"
+    }
+  ]
+}
