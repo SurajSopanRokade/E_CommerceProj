@@ -1,13 +1,13 @@
 {
   "seller": [
     {
-      "name": "Suraj Rokade",
+      "username": "Suraj Rokade",
       "password": "abc@123",
       "email": "suraj1234@gmail.com",
       "id": "1"
     },
     {
-      "name": "Abhishek Rai",
+      "username": "Abhishek Rai",
       "password": "abi@123",
       "email": "abhi1234@gmail.com",
       "id": "2"
@@ -25,10 +25,10 @@
       "email": "sunish1234@gmail.com"
     },
     {
-      "id": "99ea",
-      "username": "Sunish",
-      "password": "sunish@123",
-      "email": "sunish1234@gmail.com"
+      "id": "3753",
+      "username": "Abhi",
+      "password": "abhi@123",
+      "email": "Abhi@text.com"
     }
   ]
 }

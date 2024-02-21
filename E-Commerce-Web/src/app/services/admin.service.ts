@@ -11,4 +11,7 @@ export class AdminService {
   userSignUp(data:SignUp){
     return this.http.post('http://localhost:3000/seller', data);
   }
+  userLogin(data:SignUp){
+    return this.http.post('http://localhost:3000/seller', data);
+  }
 }
